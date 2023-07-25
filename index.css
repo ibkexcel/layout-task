@@ -9,6 +9,7 @@ body{
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
+    margin: 200px;
     margin-right: 200px;
     margin-left: 200px;
 }
