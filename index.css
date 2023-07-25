@@ -9,7 +9,7 @@ body{
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
-    margin: 100px;  
+    margin: 500px;  
 }
 select{
     color: rgb(12, 11, 11);
