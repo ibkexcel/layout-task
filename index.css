@@ -70,51 +70,5 @@ font-size: large;
     font-size: large;
 }
 
-@media(min-width: 320px) and (max-width: 480px){
-    body{
-        margin: auto;
-    }
-    #container{
-        padding: 30px 50px 30px 50px;
-        border-radius: 5px;
-        margin: 100px;  
-    }
-    select{
-        padding: 10px;
-        border-radius: 5px;
-    }
-    .calculator{
-        padding: 10px 20px;
-        border-radius: 6px;
-    }
-    .box{
-        padding-top: 10px;
-        border-radius: 5px; 
-        margin-left: 200px;
-        margin-right: 200px;
-        margin-left: 100px;    
-    }
-    .box input{
-        padding-bottom: 10px;
-    }
-    .box1{
-        padding-top: 15px;
-        border-radius: 3px;
-        margin-left: 100px;
-        margin-right: 100px;
-        font-size: large; 
-    }
-    .box1 input{
-        padding-bottom: 10px;
-    }
-    .box2{
-        padding-top: 10px;
-    border-radius: 6px; 
-    margin-right: 50px;
-    margin-left: 100px;
-    }
-    .box2 input{
-        padding-bottom: 10px;
-    }
 
-}
+
