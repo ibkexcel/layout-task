@@ -69,6 +69,52 @@ font-size: large;
     padding-bottom: 20px;
     font-size: large;
 }
+@media(min-width: 320px) and (max-width: 480px){
+
+#container{
+        padding: 10px 15px 10px 15px;
+        border-radius: 3px;
+        margin: 50px;  
+    }
+    select{
+        padding: 3px;
+        border-radius: 3px;
+    }
+    .calculator{
+        padding: 3px 8px;
+        border-radius: 3px;
+    }
+    .box{
+        padding-top: 3px;
+        border-radius: 3px; 
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-left: 100px;    
+    }
+    .box input{
+        padding-bottom: 5px;
+    }
+    .box1{
+        padding-top: 8px;
+        border-radius: 3px;
+        margin-left: 100px;
+        margin-right: 100px;
+        font-size: medium; 
+    }
+    .box1 input{
+        padding-bottom: 5px;
+    }
+    .box2{
+        padding-top: 3px;
+    border-radius: 3px; 
+    margin-right: 50px;
+    margin-left: 50px;
+    }
+    .box2 input{
+        padding-bottom: 5px;
+    }
+
+}
 
 
 
