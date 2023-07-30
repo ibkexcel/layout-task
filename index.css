@@ -74,7 +74,8 @@ font-size: large;
 #container{
         padding: 20px 25px 20px 25px;
         border-radius: 3px;
-        margin: 5%;  
+        margin: auto;
+    align-items: center;
     }
     select{
         padding: 1px;
@@ -86,12 +87,8 @@ font-size: large;
         border-radius: 3px;
     }
     .box{
-        padding-top: 2px;
-        padding-bottom: 2px;
-        padding-left: 2px;
-        padding-right: 2px
-        border-radius: 3px; 
-        
+        padding: 2px 2px 2px 2px;
+        border-radius: 3px;   
     }
     .box input{
         padding-bottom: 5px;
