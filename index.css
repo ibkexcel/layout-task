@@ -72,9 +72,9 @@ font-size: large;
 @media(min-width: 320px) and (max-width: 480px){
 
 #container{
-        padding: 10px 15px 10px 15px;
+        padding: 20px 25px 20px 25px;
         border-radius: 3px;
-        margin: 50px;  
+        margin: 100px;  
     }
     select{
         padding: 3px;
@@ -87,9 +87,9 @@ font-size: large;
     .box{
         padding-top: 3px;
         border-radius: 3px; 
-        margin-left: 100px;
-        margin-right: 100px;
-        margin-left: 100px;    
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-left: 30px;    
     }
     .box input{
         padding-bottom: 5px;
