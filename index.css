@@ -87,9 +87,9 @@ font-size: large;
         border-radius: 3px;
     }
     .box{
-        padding: 0px 0px 0px 0px;
+        padding: 3px 3px 3px 3px;
         border-radius: 3px;
-        margin-inline: 2vh;
+    
     }
     .box input{
         padding-bottom: 5px;
